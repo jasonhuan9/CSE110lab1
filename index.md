@@ -2,15 +2,17 @@
 
 ## About me
 
-I'm a second year **computer science** student.
+I'm a second year **computer science** student.\
 check list of the years I've completed:
 - [x] first year
 - [ ] second year
 - [ ] third year
 - [ ] fourth year
-[!Geisel](/pictures/Geisel.jpg)
-I enjoy hanging out with my friends.
-My favorite programming language is C++.
+
+A picture of Geisel.\ 
+![Geisel](/pictures/Geisel.jpg)
+I enjoy hanging out with my friends.\
+My favorite programming language is C++.\
 Some programming languages I know are:
 - C++
 - Java
