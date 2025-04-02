@@ -1,2 +1,2 @@
 # CSE110lab1
-index[index.md]
+[index](index.md)
