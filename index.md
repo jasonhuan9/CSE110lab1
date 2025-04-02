@@ -9,8 +9,8 @@ check list of the years I've completed:
 - [ ] third year
 - [ ] fourth year
 
-A picture of Geisel.\ 
-![Geisel](/pictures/Geisel.jpg)
+A picture of Geisel.
+![Geisel](/pictures/Geisel.jpg) \
 I enjoy hanging out with my friends.\
 My favorite programming language is C++.\
 Some programming languages I know are:
