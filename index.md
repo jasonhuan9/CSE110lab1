@@ -32,7 +32,7 @@ git push
 
 My github link is [this](https://github.com/jasonhuan9)
 
-Here is the link to the [top](#Jason-Huang)
+Here is the link to the [image](/pictures/Geisel.jpg)
 
 
 
